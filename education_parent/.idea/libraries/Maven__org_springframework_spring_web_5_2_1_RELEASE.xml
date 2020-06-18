@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework:spring-web:5.2.1.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Programs/apache-maven-3.5.2/maven_repository/org/springframework/spring-web/5.2.1.RELEASE/spring-web-5.2.1.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/AppData/Local/Programs/apache-maven-3.5.2/maven_repository/org/springframework/spring-web/5.2.1.RELEASE/spring-web-5.2.1.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Programs/apache-maven-3.5.2/maven_repository/org/springframework/spring-web/5.2.1.RELEASE/spring-web-5.2.1.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
